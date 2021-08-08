@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pppaaauuu2
-- 👀 I’m interested in data science, medical software adn videogames
+- 👀 I’m interested in data science, medical software and database administration
 - 🌱 I’m currently learning R Markdown
 - 💞️ I’m looking to collaborate on medical databases
 - 📫 How to reach me: pericassim2002@hotmail.com
